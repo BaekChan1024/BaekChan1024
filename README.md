@@ -15,3 +15,5 @@
 ### GitHub Stats
 
    [![Baekchan's github stats](https://github-readme-stats.vercel.app/api?username=BaekChan1024)](https://github.com/anuraghazra/github-readme-stats)
+   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaekChan1024)](https://github.com/anuraghazra/github-readme-stats)
