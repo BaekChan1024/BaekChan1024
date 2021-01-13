@@ -1,18 +1,10 @@
 ### Hi there I'm a software developer.👋
 
-<br />
-<br />
-
-
 <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 	
   </div>
-
-<br />
-<br />
-
 
 - 🔭 I’m currently working on Wecode
 - 🌱 I’m currently learning Python, Django, SQL
@@ -45,5 +37,6 @@
 ### GitHub Stats
 
    [![Baekchan's github stats](https://github-readme-stats.vercel.app/api?username=BaekChan1024)](https://github.com/anuraghazra/github-readme-stats)
+   <br />
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaekChan1024)](https://github.com/anuraghazra/github-readme-stats)
