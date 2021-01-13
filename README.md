@@ -9,4 +9,4 @@
 - 🔭 I’m currently working on Wecode
 - 🌱 I’m currently learning Python, Django, SQL
 
-[![Tech Blog Badge](https://velog.io/@14_seungchan)
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://velog.io/@14_seungchan)
