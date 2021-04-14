@@ -6,7 +6,6 @@
 	
   </div>
 
-- 🔭 I’m currently working on Wecode
 - 🌱 I’m currently learning Python, Django, SQL
 <br />
 
