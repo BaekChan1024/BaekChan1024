@@ -6,7 +6,7 @@
 	
   </div>
 
-- 🌱 I’m currently learning Python, Django, SQL
+- 🌱 I’m currently learning C, C++, JAVA, Spring
 <br />
 
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://velog.io/@14_seungchan)
