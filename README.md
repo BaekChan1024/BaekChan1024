@@ -1,10 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20I'm%20Seungchan!&fontSize=60&fontAlignY=40)
-
+<!--  
 <p align="center">
   <a href="mailto:baekchan1024@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
 </p>
+ -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Developer+%F0%9F%91%8B;Java+%E2%9D%A4%EF%B8%8F+Spring;Kotlin+%E2%9D%A4%EF%B8%8F+Spring" />
