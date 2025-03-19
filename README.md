@@ -8,7 +8,7 @@
  -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Developer+%F0%9F%91%8B;Java+%E2%9D%A4%EF%B8%8F+Spring;Kotlin+%E2%9D%A4%EF%B8%8F+Spring" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Software+Developer+%F0%9F%91%8B;Java+%E2%9D%A4%EF%B8%8F+Spring;Kotlin+%E2%9D%A4%EF%B8%8F+Spring" />
 </p>
 
 ---
@@ -38,12 +38,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaekChan1024&show_icons=true&theme=radical&hide=stars" width="48%" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaekChan1024&theme=radical" width="48%" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=BaekChan1024&show_icons=true&theme=light&hide=stars" width="48%" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaekChan1024&theme=light" width="48%" /> -->
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaekChan1024&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaekChan1024&layout=compact&theme=light" width="48%" />
 </p>
 
 ---
