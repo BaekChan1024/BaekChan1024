@@ -37,14 +37,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaekChan1024&show_icons=true&theme=light&hide=stars" width="48%" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaekChan1024&theme=light" width="48%" /> -->
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaekChan1024&layout=compact&theme=light" width="48%" />
-</p>
+<div align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=BaekChan1024&show_icons=true&theme=light&hide=stars" width="48%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaekChan1024&layout=compact&theme=light" width="48%" />
+</div>
 
 ---
 
