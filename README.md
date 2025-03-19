@@ -1,4 +1,4 @@
-[# Hi there I'm a software developer.👋](https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=Hello%20World)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20World&fontSize=90)
 
 <div align=center>
 	
