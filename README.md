@@ -49,9 +49,9 @@
 
 ## 📫 Let's Connect!
 <p align="center">
-  <a href="https://velog.io/@14_seungchan">
+<!--   <a href="https://velog.io/@14_seungchan">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
-  </a>
+  </a> -->
   <a href="mailto:baekchan1024@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
