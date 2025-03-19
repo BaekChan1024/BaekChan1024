@@ -39,7 +39,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BaekChan1024&show_icons=true&theme=radical&hide=stars" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaekChan1024&theme=radical" width="48%" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaekChan1024&theme=radical" width="48%" /> -->
 </p>
 
 <p align="center">
