@@ -26,20 +26,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=BaekChan1024&show_icons=true&theme=light&hide=stars" width="100%" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaekChan1024&layout=compact&theme=light" width="100%" />
-    </td>
-  </tr>
-</table>
 
 ---
 
