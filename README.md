@@ -37,9 +37,9 @@ Java·Spring으로 백엔드를 만드는 개발자입니다. 메시지 전달 �
 ## 최근 글
 
 <!-- recent-posts:start -->
+- [Redis 개선안을 운영에 넣고 다시 쟀다: Lua 스크립트, 트랜잭션 밖 호출, volatile-ttl](https://blog.baekchan.com/post/redis-개선안을-운영에-넣고-다시-쟀다-lua-스크립트-트랜잭션-밖-호출-volatile-ttl) <sub>2026-11-21</sub>
+- [Redis가 죽거나 느리거나 꽉 차면 조회수는 어떻게 될까? 장애·재시작·메모리·네트워크 실험](https://blog.baekchan.com/post/redis가-죽거나-느리거나-꽉-차면-조회수는-어떻게-될까-장애재시작메모리네트워크-실험) <sub>2026-11-21</sub>
+- [AI 공급자가 실패하면 다시 보낼까? 재시도·Circuit Breaker·Bulkhead를 실험하고 운영에 붙이기](https://blog.baekchan.com/post/ai-공급자가-실패하면-다시-보낼까-재시도circuit-breakerbulkhead를-실험하고-운영에-붙이기) <sub>2026-11-21</sub>
 - [인기 글에 Redis가 필요했을까? 조회수 중복 제거를 Redis로 옮기고 PostgreSQL 세 방식과 다시 잰 기록](https://blog.baekchan.com/post/인기-글에-redis가-필요했을까-조회수-중복-제거를-redis로-옮기고-postgresql-세-방식과-다시-잰-기록) <sub>2026-11-21</sub>
 - [오케스트레이터가 죽거나 Saga가 멈추면? 크래시·참여자 중단·피벗 뒤 응답 유실 실험](https://blog.baekchan.com/post/오케스트레이터가-죽거나-saga가-멈추면-크래시참여자-중단피벗-뒤-응답-유실-실험) <sub>2026-11-21</sub>
-- [read replica를 붙이면 '즉시 비공개'는 어떻게 될까](https://blog.baekchan.com/post/cqrs-실전-4-read-replica를-붙이면-즉시-비공개는-어떻게-될까) <sub>2026-11-21</sub>
-- [요청마다 글 수를 세야 할까? 집계 조회 모델과 측정](https://blog.baekchan.com/post/cqrs-실전-3-요청마다-글-수를-세야-할까-집계-조회-모델과-측정) <sub>2026-11-21</sub>
-- [비공개로 바꾼 글이 계속 보인다면? 공개 조회에서 쓰기 테이블 떼어 내기](https://blog.baekchan.com/post/cqrs-실전-2-비공개로-바꾼-글이-계속-보인다면-공개-조회에서-쓰기-테이블-떼어-내기) <sub>2026-11-21</sub>
 <!-- recent-posts:end -->
